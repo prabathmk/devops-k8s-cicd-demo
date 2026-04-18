@@ -32,13 +32,13 @@ This project demonstrates a simple DevOps pipeline integrating Docker, Kubernete
 ## Screenshots
 
 ### Application Output
-screenshots/app-output.png
-
+![App Output](screenshots/app-output.png)
+*Application deployed on Kubernetes using Minikube*
 ### Kubernetes Pods
-screenshots/k8s-pods.png
+![Pods](screenshots/k8s-pods.png)
 
 ### Kubernetes Service
-screenshots/k8s-service.png
+![Service](screenshots/k8s-service.png)
 
 ## Author
 Prabath Kariyawasam
