@@ -29,5 +29,16 @@ This project demonstrates a simple DevOps pipeline integrating Docker, Kubernete
 - service.yaml
 - Jenkinsfile (optional)
 
+## Screenshots
+
+### Application Output
+screenshots/app-output.png
+
+### Kubernetes Pods
+screenshots/k8s-pods.png
+
+### Kubernetes Service
+screenshots/k8s-service.png
+
 ## Author
 Prabath Kariyawasam
